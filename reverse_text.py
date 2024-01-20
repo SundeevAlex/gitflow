@@ -1,3 +1,3 @@
-def revese_text(value):
+def revese_text(value:str):
     """функция отражающая текст"""
     return value[::1]
